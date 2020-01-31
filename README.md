@@ -3,9 +3,14 @@ A C written parser that takes in a text file containing hexadecimal instructions
 
 # *Keynotes*:
 -uses bit shifting, pointers, and command line arguments
+
 -takes in text file of hexadecimal values delimited by the newline character
+
 -To use run the executable from a cmd prompt, import hex instructions text file as an argument in command line
+
 -not all instructions are supported in this build
+
+-decoded.csv is an the output of hexInstructions.txt
 
 # *Supported instructions* (from main.c):
 #define ADD 0X20
