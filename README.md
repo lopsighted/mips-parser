@@ -1,5 +1,5 @@
 # mips-parser
-A C written parser that takes in a text file containing hexadecimal instructions and parses the outputted processed instructions in a .csv file.
+A parser written in C that takes in a text file containing hexadecimal instructions and parses the outputted processed instructions in a .csv file.
 
 # *Keynotes*:
 -uses bit shifting, pointers, and command line arguments
